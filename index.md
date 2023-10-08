@@ -9,3 +9,11 @@
 
 ## This image of Yaktocat is pretty cool so I'll just use it for this Step 2. 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+Here is a code example for Javascript:
+
+``` javascript
+var myVar = "Hello, world!";
+```
